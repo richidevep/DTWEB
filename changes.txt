@@ -1,0 +1,3 @@
+<p style="text-align: center;">
+            <img src="assets/img/icon_DSH.png" alt="Logo" height="150" width="150">
+        </p>
